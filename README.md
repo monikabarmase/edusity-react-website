@@ -1,5 +1,39 @@
 # React + Vite
 
+edusity-react-website/
+│
+├── src/
+│   ├── assets/
+│   │   └── images/
+│   │       ├── hero.jpg
+│   │       ├── campus1.png
+│   │       └── ...
+│   │
+│   ├── components/
+│   │   ├── About.jsx
+│   │   ├── Campus.jsx
+│   │   ├── Contact.jsx
+│   │   ├── Footer.jsx
+│   │   ├── Hero.jsx
+│   │   ├── Navbar.jsx
+│   │   ├── Program.jsx
+│   │   ├── Testimonials.jsx
+│   │   ├── Title.jsx
+│   │   └── VideoPlayer.jsx
+│   │
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
+│
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package.json
+├── package-lock.json
+├── README.md
+└── vite.config.js
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
